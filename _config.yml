@@ -112,4 +112,4 @@ menu:
   Home: /
   Projects: /projects
 
-faviconL "/img/favicon.ico"
+favicon: "/img/favicon.ico"
