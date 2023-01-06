@@ -106,3 +106,8 @@ deploy:
   repo: git@github.com:kl-port/kl-port.github.io.git
   branch: master
 
+
+# Header 
+menu:
+  Home: /
+  Projects: /projects
